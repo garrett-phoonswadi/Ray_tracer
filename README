@@ -1,0 +1,11 @@
+Garrett Phoonswadi
+How to compile
+run make it will make the program called raytracer (Currently can only get this to run on linux)
+
+to run 
+
+./raytracer <scene file>
+
+There are a few test cases
+
+the masterwork is a few water molecules that are just hanging out

@@ -1,0 +1,13 @@
+eye 0 0 3
+look 0 0 0
+up 0 1 0
+d 2
+bounds -1 -1 1 1
+res 512 512
+outfile scene1
+ambient 0 0 0
+ks 1.0 1.0 1.0
+kd 1.0 1.0 1.0
+light 5 3 3 1 0.75 0 0
+light -5 3 3 1 0 0.75 0
+sphere 0 0 0 0.75 1.0 1.0 1.0
